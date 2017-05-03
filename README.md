@@ -6,6 +6,8 @@ A Blackjack game made in Matlab for 1st Year, Semester 1 University Course: Intr
 
 First "large" coding task that I have undertaken and rushed over a couple of days: therefore code is extremely messy. 
 
+Serves as a basis for how far I have improved and how much can be accomplished in a short span of time. 
+
 
 
 
